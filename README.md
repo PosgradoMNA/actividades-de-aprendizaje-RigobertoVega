@@ -3,5 +3,6 @@
 Avance Curso 1
 ![image](https://user-images.githubusercontent.com/105187589/192704995-b0e8c4cb-3a69-459e-9431-e5609c23d709.png)
 Avance Curso 2
-![image](https://user-images.githubusercontent.com/105187589/195775258-88508925-5b4b-45a2-8d89-8061be556d6d.png)
+![image](https://user-images.githubusercontent.com/105187589/197373577-a6a0f3dd-847a-4fac-bdf6-80bfaaade2f9.png)
+
 
